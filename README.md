@@ -1,1 +1,1 @@
-# Click-on-Ad-Prediction-using-Random-Forests-and-Decision-Tree
+# Click on Ad Prediction using Naive Bayes and Decision Tree
